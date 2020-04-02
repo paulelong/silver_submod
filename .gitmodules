@@ -1,0 +1,3 @@
+[submodule "silver-octo-spoon"]
+	path = silver-octo-spoon
+	url = https://github.com/paulelong/silver-octo-spoon.git
